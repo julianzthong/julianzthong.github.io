@@ -1,0 +1,19 @@
+{
+  "name": "julianzthong.github.io",
+  "version": "1.0.0",
+  "description": "Julian Thong's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianzthong/julianzthong.github.io.git"
+  },
+  "author": "Julian Thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianzthong/julianzthong.github.io/issues"
+  },
+  "homepage": "https://github.com/julianzthong/julianzthong.github.io#readme"
+}
